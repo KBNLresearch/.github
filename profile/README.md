@@ -1,6 +1,9 @@
-The Royal Library of the Netherlands (Dutch: Koninklijke Bibliotheek or KB; Royal Library) is the national library of the Netherlands, based in The Hague, founded in 1798.
+The KB is the National Library of the Netherlands. We bring research, reading, discovery and lifelong learning within reach of everyone in the Netherlands. At home and in the library, online and offline. Since our foundation in 1798, our aim has been to collect as many publications as possible, that were written in or about the Netherlands. From mediaeval manuscripts to newspapers, and from Donald Duck magazine to historical and present-day novels.
 
-You are currently at the @github page of the research department.
+You are currently at the Github page of the research department.
+
+Here you will find some code for our research projects.
+To get an idea what we do, here is a visual impression of our [work](https://kbnlresearch.github.io/).
 
 Share and enjoy.
 
